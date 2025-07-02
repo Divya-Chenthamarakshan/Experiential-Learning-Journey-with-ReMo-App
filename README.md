@@ -23,7 +23,7 @@ We analyzed over 20,000 book records from 2018–2024 to identify student readin
 - **Excel** for initial data exploration
 - **Git** for version control
 
-## 📁 Repository Structure![Dashboard 3 (1)](https://github.com/user-attachments/assets/aecad488-18c6-4f0d-affd-67f688a74d76)
+## 📁 Repository Structure!
 
 /data/ → Raw and cleaned datasets
 /scripts/ → R scripts for cleaning, modeling, and visualization
