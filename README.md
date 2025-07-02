@@ -23,13 +23,6 @@ We analyzed over 20,000 book records from 2018–2024 to identify student readin
 - **Excel** for initial data exploration
 - **Git** for version control
 
-## 📁 Repository Structure!
-
-/data/ → Raw and cleaned datasets
-/scripts/ → R scripts for cleaning, modeling, and visualization
-/reports/ → PDF deliverables and insights
-/dashboard/ → Tableau dashboard link & screenshots
-README.md → Project overview and documentation
 
 ## 📌 Insights
 
